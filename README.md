@@ -2,7 +2,7 @@
 
 A small, stylish X-Wing animation built using plain HTML, CSS and JavaScript.
 
-![X-Wing animation screenshot](./Screenshot 2024-08-30 131947.png)
+![X-Wing animation screenshot](https://raw.githubusercontent.com/BinaryVortex/X-Wing-Animation/main/Screenshot%202024-08-30%20131947.png)
 
 ## Overview
 
